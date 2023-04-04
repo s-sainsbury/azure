@@ -7,7 +7,6 @@ trigger:
 - master
 
 pool:
- name: VM
  vmImage: ubuntu-latest
 
 steps:
